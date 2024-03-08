@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Kunde</h1>
-<h2 align="center">M.SC. Robotics and Mechatronics | AI Engineer | Developer</h2>
+<h2 align="center">M.Sc. Robotics and Mechatronics | AI Engineer | Developer</h2>
 
 <h3 align="left">I'm a passionate software and AI developer based in Charleston, USA. With a background and a Master's degree in Robotics, I've been coding on privately and commercially since 2018. Fluent in English, German, and some Spanish, I love solving Problems through code.</h3>
 
