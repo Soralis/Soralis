@@ -3,6 +3,8 @@
 
 <h3 align="left">I'm a passionate software and AI developer based in Charleston, USA. With a background and a Master's degree in Robotics, I've been coding on privately and commercially since 2018. Fluent in English, German, and some Spanish, I love working on solving Problems through code.</h3>
 
+- 🌏 Based in Charleston, SC, USA
+
 - 🔭 I’m currently working on **POS API Integration and a Phorest Dashboard**
 
 - 🌱 I’m currently learning **Svelte 5 and TypeScript**
@@ -50,12 +52,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
 </div>
-
-<br/> 
-<br/> 
-<br/> 
-<h2 align="left">Github Stats:</h2> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soralis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 
