@@ -11,10 +11,10 @@ I'm a passionate software developer based in Charleston, USA. With a background 
 ## Tech Stack
 Here are the technologies I work with:
 
-- **Languages**: !Python, JavaScript, TypeScript, C, C++, Matlab
+- **Languages**: ![Python](https://img.shields.io/badge/Python/3776AB?style=flat-square&logo=python&logoColor=white), JavaScript, TypeScript, C, C++, Matlab
 - **Web Development**: HTML, CSS, Svelte, Sveltekit, Django
 - **API Development**: FastAPI, Postman
-- **Databases**: PostgresDB
+- **Databases**: PostgresDB, SQLite
 - **AI & Robotics**: Exploring the intersection of AI and robotics.
 
 ## GitHub Stats
