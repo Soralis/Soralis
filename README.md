@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm Christopher Kunde.
 
-<!--
-**Soralis/Soralis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer based in Charleston, USA. With a background in Robotics and a Master's degree, I've been coding since 2018. Fluent in English, German, and some Spanish, I love working with a diverse tech stack.
 
-Here are some ideas to get you started:
+## About Me
+- 🚀 Passionate about software development and problem-solving.
+- 🤖 M.Sc. in Robotics, which fuels my interest in AI development.
+- 🌐 Web development enthusiast, creating responsive and user-friendly interfaces.
+- 🛠️ Proficient in CI/CD and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Here are the technologies I work with:
+
+- **Languages**: Python, JavaScript, TypeScript, C, C++, Matlab
+- **Web Development**: HTML, CSS, Svelte, Sveltekit, Django
+- **API Development**: FastAPI, Postman
+- **Databases**: PostgresDB
+- **AI & Robotics**: Exploring the intersection of AI and robotics.
+
+## GitHub Stats
+!Your GitHub Stats
+
+## Connect with Me
+Let's connect! Feel free to explore my repositories and reach out:
+
+- LinkedIn
+- Twitter
+
+Looking forward to collaborating and sharing ideas! 😊
