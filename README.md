@@ -11,7 +11,7 @@ I'm a passionate software developer based in Charleston, USA. With a background 
 ## Tech Stack
 Here are the technologies I work with:
 
-- **Languages**: Python, JavaScript, TypeScript, C, C++, Matlab
+- **Languages**: !Python, JavaScript, TypeScript, C, C++, Matlab
 - **Web Development**: HTML, CSS, Svelte, Sveltekit, Django
 - **API Development**: FastAPI, Postman
 - **Databases**: PostgresDB
