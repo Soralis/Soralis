@@ -52,6 +52,8 @@
 </div>
 
 <br/> 
+<br/> 
+<br/> 
 <h2 align="left">Github Stats:</h2> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soralis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
