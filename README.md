@@ -7,10 +7,16 @@
 
 - 🌱 I’m currently learning **Svelte 5 and TypeScript**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christopher-kunde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-kunde" height="30" width="40" /></a>
 </p>
+
+
+
+<h2 align="left">My Tech Stack:</h2>
 
 <h3 align="left">AI + Machine Learning:</h3>
 <div>
