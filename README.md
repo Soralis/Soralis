@@ -5,9 +5,9 @@
 
 - 🌏 Based in Charleston, SC, USA
 
-- 🔭 I’m currently working on **POS API Integration and a Phorest Dashboard**
+- 🔭 I’m currently working on **POS API Integration** and a **Phorest Dashboard**
 
-- 🌱 I’m currently learning **Svelte 5 and TypeScript**
+- 🌱 I’m currently learning **Svelte 5** and **TypeScript**
 
 <br/> 
 <h3 align="left">Connect with me:</h3>
